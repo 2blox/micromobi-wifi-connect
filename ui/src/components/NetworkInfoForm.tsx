@@ -85,7 +85,7 @@ export const NetworkInfoForm = ({
 			mt={5}
 		>
 			<Heading.h3 align="center" mb={4}>
-				Hi! Please choose your WiFi from the list
+				Hi! Please choose a WiFi from the list below to connect your Mobi to.
 			</Heading.h3>
 
 			<Form
